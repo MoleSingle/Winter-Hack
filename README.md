@@ -26,7 +26,7 @@ To run this project, you'll need Python installed on your machine as well as the
 3. **Clone or Download the Repository**:
    - You can clone this repository using Git:
      ```bash
-     git clone [<repository-link>](https://github.com/MoleSingle/Winter-Hack.git)
+     git clone https://github.com/MoleSingle/Winter-Hack.git
      ```
    - Alternatively, download the ZIP of the repository and extract it.
 
